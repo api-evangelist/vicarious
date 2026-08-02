@@ -1,7 +1,25 @@
 aid: vicarious
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/vicarious.png
 name: Vicarious
-description: Vicarious is a company surfaced as a portfolio company of dcvc and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: 'Vicarious (Vicarious FPC) was an artificial intelligence and industrial
+  robotics company founded in 2010 by D. Scott Phoenix and Dileep George. It pursued
+  brain-inspired machine learning, notably the Recursive Cortical Network that solved
+  text CAPTCHAs with far less training data, then applied that research to general-purpose
+  robotic automation for warehouse and manufacturing tasks. The company was backed
+  by DCVC, Founders Fund, Khosla Ventures, ABB, Samsung, and Wipro, and was acquired
+  by Intrinsic, Alphabet''s robotics moonshot, in 2022. Its vicarious.com domain no
+  longer resolves and it exposes no public API surface.'
 url: https://raw.githubusercontent.com/api-evangelist/vicarious/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,10 +29,23 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Artificial Intelligence
+- Robotics
+- Machine Learning
+- Industrial Automation
+- Acquired
+- Defunct
+x-status: defunct
+x-status-reason: acquired-by-intrinsic-alphabet-2022; vicarious.com no longer resolves
 apis: []
+x-enrichment:
+  date: '2026-07-21'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
