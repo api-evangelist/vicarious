@@ -32,6 +32,9 @@ description: 'Vicarious (Vicarious FPC) was an artificial intelligence and indus
   by Intrinsic, Alphabet''s robotics moonshot, in 2022. Its vicarious.com domain no
   longer resolves and it exposes no public API surface.'
 url: https://raw.githubusercontent.com/api-evangelist/vicarious/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Its vicarious.com domain no longer resolves and it exposes no public API surface."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
