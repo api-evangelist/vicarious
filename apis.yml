@@ -48,7 +48,7 @@ tags:
 - Company
 - Artificial Intelligence
 - Robotics
-- Machine-Learning
+- Machine Learning
 - Industrial Automation
 - Acquired
 - Defunct
@@ -60,6 +60,7 @@ tags_raw:
 - Industrial Automation
 - Acquired
 - Defunct
+- Machine-Learning
 x-status: defunct
 x-status-reason: acquired-by-intrinsic-alphabet-2022; vicarious.com no longer resolves
 apis: []
